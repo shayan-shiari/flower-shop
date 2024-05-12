@@ -770,7 +770,7 @@ video {
 }
 
 .swiper-slide {
-  width: auto !important;
+  /* width: auto !important; */
   margin-left: 15px !important;
 }
 
